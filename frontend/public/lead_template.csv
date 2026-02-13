@@ -1,0 +1,3 @@
+company_name,city,state,website,description,services,employee_estimate,project_count,has_trade_program,has_procurement_page,source
+"Example Interior Studio",Phoenix,AZ,https://example.com,"Luxury residential interior design studio focusing on furniture and lighting packages.","interior design;furniture procurement;lighting",15,120,yes,yes,manual_research
+"",,,,,,,,,,

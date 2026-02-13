@@ -1,0 +1,166 @@
+model,company_name,lead_score,lead_reason,latency_ms,subject,body,subject_len,body_len,error
+gpt-4o-mini,Oak & Thread Interiors,95,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）；采购意向信号强（在找供应商）,4292.9,Sunny Home与Oak & Thread Interiors的合作机会,"尊敬的Oak & Thread Interiors团队，
+
+我们是Sunny Home，专注于为住宅、软装及精品酒店提供中高端家具与灯具的供应方案。我们了解您在为高端住宅设计提供优质服务方面的努力，期待能成为您可靠的供应商。
+
+我们的产品不仅设计精美，且符合高端市场需求，能为您的项目增添独特价值。
+
+请您回复此邮件，探讨如何合作，共同提升客户体验。
+
+期待您的回音。
+
+顺祝商祺，
+Sunny Home团队",38,204,
+gpt-4o-mini,Luma Interior Studio,93,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,3693.7,Sunny Home与Luma Interior Studio的合作机会,"尊敬的Luma Interior Studio团队，
+
+我们是Sunny Home，专注于中高端家具与灯具的供应，致力于支持住宅、软装及精品酒店项目。我们提供定制化的产品解决方案，确保满足您在奢华住宅和酒店项目中的独特需求。
+
+我们期待与您探讨如何通过我们的产品提升您的设计方案。请您回复此邮件，安排一个简短的电话会议，以便进一步交流。
+
+谢谢！
+
+顺祝商祺，
+Sunny Home团队",36,193,
+gpt-4o-mini,Cedar & Glass Design,90,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,3130.9,为Cedar & Glass Design提供高端家具与灯具方案,"尊敬的Cedar & Glass Design团队，
+
+我们是Sunny Home，专注于为住宅、软装及精品酒店提供中高端家具与灯具解决方案。我们了解您在海岸奢华住宅项目中对独特照明和定制家具的需求。我们的产品将帮助您提升设计的整体品质和客户满意度。
+
+期待与您进一步探讨如何合作，助力您的项目成功。请您回复此邮件，安排一次简短的电话会议。
+
+谢谢！
+
+Sunny Home团队",32,189,
+gpt-4o-mini,Mosaic Workplace Studio,71,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,3026.8,提升Mosaic Workplace Studio项目的家具与灯具解决方案,"尊敬的Mosaic Workplace Studio团队，
+
+我是Sunny Home的代表，我们专注于为住宅、软装及精品酒店提供中高端家具与灯具。我们了解贵公司在办公室及共享空间的专业需求，提供高质量的产品和灵活的采购方案，助力您的项目提升整体设计感与功能性。
+
+期待与您探讨如何为您的下一个项目提供支持。请您方便时回复，安排一次简短的电话会议。
+
+谢谢！",37,179,
+gpt-4o-mini,Willow Creek Interiors,69,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,3423.3,与Sunny Home合作提升您的室内设计项目,"尊敬的Willow Creek Interiors团队，
+
+我们是Sunny Home，专注于为住宅、软装及精品酒店提供中高端家具与灯具的供应方案。我们相信，优质的家具和灯具能够显著提升您的设计项目的价值与吸引力。
+
+我们希望能与您合作，提供定制化的产品解决方案，以满足您客户的独特需求。请您回复此邮件，安排一次简短的电话会议，讨论如何共同推动您的项目成功。
+
+期待您的回复。
+
+顺祝商祺，
+Sunny Home团队",23,208,
+gpt-4o-mini,Desert Staging Co,66,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关,3737.1,为Desert Staging Co提供高效家具与灯具解决方案,"尊敬的Desert Staging Co团队，
+
+我们是Sunny Home，专注于中高端家具与灯具的供应。我们理解您在快速家具和装饰包方面的需求，特别是针对高端房源的家居布置。
+
+我们的产品不仅美观大方，而且交付迅速，能够帮助您提升房源的吸引力，缩短销售周期。
+
+期待与您进一步探讨如何为您的项目提供支持，请您尽快回复。 
+
+谢谢！
+
+Sunny Home团队",31,181,
+gpt-4.1-mini,Oak & Thread Interiors,95,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）；采购意向信号强（在找供应商）,3700.9,Sunny Home为Oak & Thread Interiors提供优质家具灯具供应方案,"尊敬的Oak & Thread Interiors团队，
+
+您好！我是Sunny Home，专注于中高端住宅及精品酒店家具与灯具供应。了解到贵司在达拉斯专注于高端住宅设计及供应商管理，我们的产品线可助力您丰富优质供应资源，提升客户满意度。我们提供定制化软装解决方案，确保设计与品质完美契合。期待与您探讨合作可能，方便时请回复此邮件安排简短沟通。
+
+祝好，
+Sunny Home团队",45,190,
+gpt-4.1-mini,Luma Interior Studio,93,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,3204.9,Sunny Home助力Luma Interior Studio提升家具灯具品质,"尊敬的Luma Interior Studio团队，
+
+您好！我们是Sunny Home，专注于为住宅、软装及精品酒店提供中高端家具与灯具解决方案。了解到贵司在凤凰城高端住宅与酒店项目中，常需定制灯具及客厅家具。我们可提供符合贵司设计标准的优质产品，助力提升项目品质与客户满意度。
+
+期待与您探讨合作可能，方便时请回复邮件安排简短交流。
+
+祝好，
+Sunny Home团队",40,186,
+gpt-4.1-mini,Cedar & Glass Design,90,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,2670.3,Sunny Home助力Cedar & Glass Design打造海岸奢华空间,"尊敬的Cedar & Glass Design团队，
+
+您好！Sunny Home专注于中高端住宅及精品酒店的家具与灯具供应，特别适合贵司在圣地亚哥海岸奢华住宅项目中对定制家具与灯具的高标准需求。我们提供灵活的定制方案，助力提升项目整体品质与客户满意度。期待了解贵司近期项目需求，探讨合作可能。请问您方便时回复此邮件，我们安排简短沟通。
+
+祝商祺，
+Sunny Home团队",40,187,
+gpt-4.1-mini,Mosaic Workplace Studio,71,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,2434.4,Sunny Home助力Mosaic Workplace Studio优化办公家具采购方案,"尊敬的Mosaic Workplace Studio团队，
+
+您好！Sunny Home专注于中高端住宅及精品酒店家具与灯具供应，现拓展至商业办公空间。鉴于贵司在芝加哥的办公及联合办公空间设计和大批量家具采购需求，我们可提供定制化、高品质且具竞争力的家具与灯具解决方案，助力提升项目整体品质与效率。
+
+期待与您进一步探讨合作可能，方便时请回复邮件安排简短电话沟通。
+
+祝商祺，
+Sunny Home团队",45,201,
+gpt-4.1-mini,Willow Creek Interiors,69,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,2384.0,Sunny Home助力Willow Creek Interiors提升住宅软装品质,"尊敬的Willow Creek Interiors团队，
+
+您好！Sunny Home专注于中高端住宅及精品酒店家具与灯具供应，致力于为设计师提供高品质且多样化的软装解决方案。我们了解您在夏洛特地区的室内设计与装修项目需求，愿助力提升您的家具选配效率与客户满意度。期待与您探讨合作可能，方便时请回复邮件安排简短沟通。
+
+祝好，
+Sunny Home团队",42,176,
+gpt-4.1-mini,Desert Staging Co,66,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关,3169.9,为Desert Staging Co提供高效家具灯具解决方案,"尊敬的Desert Staging Co团队，
+
+您好！Sunny Home专注于为住宅及精品酒店提供中高端家具与灯具，特别适合快速周转的样板房需求。我们理解您在斯科茨代尔市场对高品质、快速交付的家具软装组合的需求，能助力提升您的高端房源展示效果。
+
+期待与您探讨如何通过我们的定制方案优化您的家居布置流程。请回复此邮件，安排简短电话沟通。
+
+祝商祺，
+Sunny Home团队",30,189,
+gpt-4o,Oak & Thread Interiors,95,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）；采购意向信号强（在找供应商）,5007.1,Sunny Home：为Oak & Thread提供优质家具与灯具方案,"尊敬的Oak & Thread团队，
+
+我们是Sunny Home，专注于为住宅、软装与精品酒店提供中高端家具与灯具供应方案。我们了解到贵公司在达拉斯的住宅室内设计领域享有盛誉，并拥有精选的家具和灯具供应商名单。
+
+Sunny Home提供的产品不仅设计精美，还能提升空间的整体价值。我们希望能成为您值得信赖的合作伙伴，助力您的设计项目更上一层楼。
+
+请问您是否有兴趣了解更多我们的产品及合作方案？期待您的回复。
+
+谢谢！
+Sunny Home团队",35,224,
+gpt-4o,Luma Interior Studio,93,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,2922.9,Sunny Home为Luma Interior Studio提供定制家具与灯具方案,"尊敬的Luma Interior Studio团队，
+
+Sunny Home专注于中高端住宅与精品酒店的家具和灯具供应，特别适合您在豪华住宅和酒店项目中的需求。我们提供定制化的灯具和客厅家具方案，确保每个项目都独具特色。
+
+我们期待与您合作，为您的项目提供高品质的产品和服务。请您回复此邮件，我们将安排一次简短的电话会议，详细讨论您的具体需求。
+
+期待您的回复。
+
+Sunny Home团队",42,195,
+gpt-4o,Cedar & Glass Design,90,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,3969.5,Sunny Home为您的豪华住宅提供优质家具与灯具,"尊敬的Cedar & Glass Design团队，
+
+我们是Sunny Home，专注于住宅、软装与精品酒店的中高端家具与灯具供应。了解到您在圣地亚哥专注于海滨豪华住宅的室内设计与项目管理，我们的产品能够提升您的设计项目价值。
+
+我们的定制家具与独特灯具将为您的客户提供卓越的视觉效果和功能性。期待为您提供更多信息，并探讨如何合作以满足您的设计需求。
+
+请回复此邮件以安排一次简短的电话会议。
+
+期待您的回复。
+
+Sunny Home团队",26,220,
+gpt-4o,Mosaic Workplace Studio,71,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,3047.8,Sunny Home为您的办公空间提供高端家具解决方案,"尊敬的Mosaic Workplace Studio团队，
+
+我们是Sunny Home，专注于为住宅、软装与精品酒店提供中高端家具与灯具解决方案。我们了解到贵公司在芝加哥专注于企业室内设计，并有大量的家具采购需求。
+
+Sunny Home的产品不仅设计精美，还具备卓越的耐用性，能够完美契合贵公司的办公空间项目需求。我们期待能为您提供高效的供应链支持，帮助您优化采购流程。
+
+如您有兴趣了解更多，请随时回复此邮件，我们将安排一次简短的电话会议。
+
+期待您的回复。
+
+Sunny Home团队",27,246,
+gpt-4o,Willow Creek Interiors,69,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,1949.5,Sunny Home为Willow Creek Interiors提供高端家具解决方案,"尊敬的Willow Creek Interiors团队，
+
+我们是Sunny Home，专注于提供适用于住宅、软装与精品酒店的中高端家具与灯具解决方案。我们了解到贵公司在Charlotte的卓越设计服务，期待为您的项目提供支持。
+
+我们的产品不仅提升空间美感，还能通过定制化选择满足您客户的独特需求。希望能安排一次简短的电话会议，探讨如何助力您的下一个项目。
+
+期待您的回复。
+
+Sunny Home团队",43,202,
+gpt-4o,Desert Staging Co,66,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关,3875.9,Sunny Home为您的高端房屋布置提供快速解决方案,"尊敬的Desert Staging Co团队，
+
+您好！我们是Sunny Home，专注于提供中高端家具与灯具解决方案。了解到贵公司需要快速周转的家具和装饰包，我们的产品正好契合您的需求。我们提供高效的配送服务，确保您在最短时间内获得所需产品。
+
+期待与您合作，帮助提升您的房屋布置效果。如有兴趣，请随时回复此邮件，我们将为您提供详细方案。
+
+祝好，
+Sunny Home团队",27,188,
+gpt-5-mini,Oak & Thread Interiors,95,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）；采购意向信号强（在找供应商）,105.1,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
+gpt-5-mini,Luma Interior Studio,93,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,101.8,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
+gpt-5-mini,Cedar & Glass Design,90,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关；数字化采购信号明确（trade/procurement 页面）,99.8,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
+gpt-5-mini,Mosaic Workplace Studio,71,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,116.8,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
+gpt-5-mini,Willow Creek Interiors,69,行业匹配度高（设计/FF&E/软装）；数字化采购信号明确（trade/procurement 页面）,124.5,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
+gpt-5-mini,Desert Staging Co,66,行业匹配度高（设计/FF&E/软装）；与家具/灯具需求高度相关,98.4,,,0,0,"Error code: 400 - {'error': {'message': ""Unsupported parameter: 'temperature' is not supported with this model."", 'type': 'invalid_request_error', 'param': 'temperature', 'code': None}}"
